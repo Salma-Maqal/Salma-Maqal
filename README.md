@@ -27,7 +27,7 @@
 - **Web:** HTML, CSS  
 - **Tools:** Git, GitHub, VS Code  
 
-
+---
 
 ### 🌐 Connect with Me
 
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:email@gmail.com">
+<a href="mailto:maqalsalma3@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
 
