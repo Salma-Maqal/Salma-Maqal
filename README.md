@@ -27,19 +27,20 @@
 - **Web:** HTML, CSS  
 - **Tools:** Git, GitHub, VS Code  
 
----
 
-### 🔗 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/salma-maqal-b38114348/
-- 🧑‍💻 GitHub: https://github.com/nomprenom
+
 ### 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/nom-prenom" target="_blank">
+<a href="https://www.linkedin.com/in/salma-maqal-b38114348/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:email@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
+
+---
+
 ### 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
@@ -50,5 +51,4 @@
 ![CSS](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
+![VS%20Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
